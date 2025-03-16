@@ -1,0 +1,37 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "February 2025 13/03/2025 is date of the pack. Made By a Contributor of Faithful.",
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ],
+    "name": "Faithful-32x-Progart-bedrock-latest",
+    "uuid": "40223e28-5ca9-4faf-8644-fc6eaf12bdc0",
+    "version": [
+      2,
+      0,
+      0
+    ]
+  },
+  "metadata": {
+      "authors": [ "Vattic & Faithful Team" ],
+      "license": "https://faithfulpack.net/license",
+      "url": "https://faithfulpack.net/",
+      "github": "https://github.com/Webaccount284/Faithful-32x-Progart-Java-Unoffical",
+      "discord": "https://discord.gg/SavVZzByFW"
+},
+  "modules": [
+    {
+      "description": "By a Contributor of Faithful",
+      "type": "resources",
+      "uuid": "7b19f532-e1ac-4ce7-b90b-b143f1eb41fe",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
